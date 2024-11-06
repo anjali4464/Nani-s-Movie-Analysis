@@ -1,1 +1,3 @@
 # Nani-s-Movie-Analysis
+
+The nani's movie analysis dashboard integrates various movie data, including box office performance, audience reception, critical reviews, and key attributes such as genre, director, production studio, and year of release. The primary objective of this dashboard is to offer insights into the actor’s career trajectory, the success or failure of his movies, and patterns or trends in the types of films he has been associated with. Movie analysts, fans, film critics, and industry professionals can utilize this dashboard to gauge the performance of Nani’s movies, compare them to industry averages, and make data-driven predictions about his future projects.
